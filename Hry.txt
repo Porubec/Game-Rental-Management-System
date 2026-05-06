@@ -1,0 +1,8 @@
+The Sims 4|EA Maxis|RPG|12|3.2|0|4.7|100|50
+World of Warcraft|Blizzard|STRATEGIA|12|2.5|1|4.9|300|0
+Tetris|EA Games|LOGICKA|3|2.0|1|4.9|100|0
+Super Mario Bros.|Nintendo|AKCNA|6|1.5|1|5.0|150|100
+The Witcher 3|CD Projekt Red|RPG|18|4.0|1|4.8|300|200
+Chess|Various|LOGICKA|5|1.0|0|4.9|120|150
+FIFA 23|EA Sports|SPORTOVA|10|5.2|1|4.6|550|300
+StarCraft II|Blizzard Entertainment|STRATEGIA|14|3.0|1|4.7|180|80
